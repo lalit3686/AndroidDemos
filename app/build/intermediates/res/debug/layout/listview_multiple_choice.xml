@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/ListView01"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" >
+    </ListView>
+    
+    <Button android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_text"
+        android:id="@+id/btn_items"
+        android:layout_margin="5dip"/>
+
+</LinearLayout><!-- From: file:/C:/Users/plalit/Downloads/MaterialDesignRecyclerViewDemo-master/MyAndroidTestDemos/app/src/main/res/layout/listview_multiple_choice.xml -->

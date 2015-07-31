@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/plalit/Downloads/MaterialDesignRecyclerViewDemo-master/MyAndroidTestDemos/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="metric_threads_per_inch">
+    <item>0.5</item>
+    <item>0.8</item>
+</string-array>
+    <string name="app_name">Android Test Demos</string>
+    <string name="button_text">Button</string>
+    <string name="hello">Hello World, AbhiColorActivity!</string>
+    <string name="r105">O.K.</string>
+    <string name="r106">Something went wrong.</string>
+    <string name="r333">Fatal error.</string>
+</resources>

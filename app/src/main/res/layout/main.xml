@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <ProgressBar
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:indeterminateDrawable="@drawable/my_progress_indeterminate" >
+    </ProgressBar>
+
+    <com.google.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+        android:id="@+id/myAds"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="a14f66e2dec57a7"
+        ads:refreshInterval="60" >
+    </com.google.ads.AdView>
+
+    <ImageView
+        android:id="@+id/check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/app_name"
+        android:gravity="fill_vertical"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/myTextview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/check" />
+
+    <QuickContactBadge
+        android:id="@+id/badge_small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/act_add_ons" >
+    </QuickContactBadge>
+
+</RelativeLayout>

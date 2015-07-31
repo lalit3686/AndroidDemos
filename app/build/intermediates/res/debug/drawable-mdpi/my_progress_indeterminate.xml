@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/image_for_rotation"
+    android:pivotX="50%"
+    android:pivotY="50%" />
+<!-- From: file:/C:/Users/plalit/Downloads/MaterialDesignRecyclerViewDemo-master/MyAndroidTestDemos/app/src/main/res/drawable-mdpi/my_progress_indeterminate.xml -->

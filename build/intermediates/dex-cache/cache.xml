@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\libs\GoogleAdMobAdsSdk-6.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e6b52dcd6402380542cb37557bd04e06e6d7e47d">
+        <dex dex="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\build\intermediates\pre-dexed\debug\GoogleAdMobAdsSdk-6.0.1-1276ef001748b32d870cc5eebf3c6d90a2086b2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\build\intermediates\pre-dexed\debug\httpmime-4.1.2-4cd21690cbeb03b8dc1363dbd2bceb5c8a6d38c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\libs\android-viewbadger.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\build\intermediates\pre-dexed\debug\android-viewbadger-7c696f1785a52925a6bae7189460ba45a8dd1821.jar" />
+    </item>
+    <item
+        jar="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\libs\apache-mime4j-0.6-sources.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="16691d73bd331c11ac1c7c269b9ff2cb1cda17ac">
+        <dex dex="C:\Users\plalit\Downloads\MaterialDesignRecyclerViewDemo-master\MyAndroidTestDemos\app\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-sources-fdb79da086b1d21f7261c86cb8a157ef302dc5f0.jar" />
+    </item>
+
+</items>
